@@ -22,11 +22,11 @@ class App extends Component {
     return (
       <div className="app">
         <div className="title">
-          <h1>React Dashboard Demo</h1>
+          <h1>React Dashboard </h1>
           <p>
-            Built with React.js and Chart.js based on a project by{" "}
+            Monthly Sales/Purchase{" "}
             <a href="https://www.createwithdata.com/react-chartjs-dashboard/">
-              Create with Data
+              By PRACHI
             </a>
           </p>
         </div>
